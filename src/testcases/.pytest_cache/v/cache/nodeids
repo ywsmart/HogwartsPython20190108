@@ -1,4 +1,5 @@
 [
-  "api/test_pyexampledemo.py::test_add",
-  "api/test_pyexampledemo.py::test_add2"
+  "api/test_add_demo.py::test_add",
+  "api/test_add_demo.py::test_add2",
+  "api/test_add_demo.py::test_add3"
 ]

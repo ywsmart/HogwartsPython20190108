@@ -4,7 +4,16 @@
   "src/api/test_parameters.py::test_add[8-9]": true,
   "src/api/test_pyexample_rerun.py::test_add2": true,
   "src/api/test_teardown.py::test_s1": true,
+  "src/testcases/api/test_add_demo.py::test_add2": true,
+  "src/testcases/api/test_add_demo.py::test_add3": true,
   "src/testcases/api/test_example.py::TestSample::()::test_answer": true,
   "src/testcases/api/test_example.py::TestSample::()::test_answer_2": true,
+  "src/testcases/api/test_example.py::TestSample::test_answer_2": true,
+  "src/testcases/api/test_example.py::TestSample::test_answer_3": true,
+  "src/testcases/api/test_order.py::test_add2": true,
+  "src/testcases/api/test_parameters.py::test_add[54-42]": true,
+  "src/testcases/api/test_parameters.py::test_add[8-9]": true,
+  "src/testcases/api/test_pyexample_1.py::test_add2": true,
+  "src/testcases/api/test_pyexample_rerun.py::test_add2": true,
   "src/ut/example_1.py::simple_test": true
 }

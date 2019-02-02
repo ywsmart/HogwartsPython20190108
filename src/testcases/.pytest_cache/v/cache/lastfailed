@@ -1,5 +1,4 @@
 {
-  "api/test_add_demo.py::test_add2": true,
   "api/test_add_demo.py::test_add3": true,
   "api/test_example.py::TestSample::()::test_answer": true,
   "api/test_example.py::TestSample::()::test_answer_2": true,
